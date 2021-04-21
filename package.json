@@ -1,0 +1,26 @@
+{
+  "name": "aws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5",
+    "node": "^15.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wevertonbezzera013/-ezops-test-weverton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wevertonbezzera013/-ezops-test-weverton/issues"
+  },
+  "homepage": "https://github.com/wevertonbezzera013/-ezops-test-weverton#readme"
+}
